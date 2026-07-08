@@ -17,7 +17,15 @@ A computer vision project that lets you write letters and shapes in the air usin
 
 ## Demo
 
-<!-- Add a screenshot or GIF here, e.g.: -->
+<!-- 
+\
+<img width="1447" height="806" alt="image" src="https://github.com/user-attachments/assets/a73419fc-2307-40a9-8693-79f0a9624743" />
+
+
+
+
+
+Add a screenshot or GIF here, e.g.: -->
 <!-- ![Demo](screenshots/demo.gif) -->
 
 ## How to Run
